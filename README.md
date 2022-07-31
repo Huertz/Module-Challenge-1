@@ -11,22 +11,22 @@ My motivation is to understand the concepts of HTML Elements
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
 Project was already build, the challenge of this project is a refactor. 
 - What problem does it solve?
-The project solves HTML semantic elements
+The project solves HTML semantic elements and to compile the CCS file so it's neat and understandable 
 - What did you learn?
 The understanding of the structional of how a HTML website should be build. 
 
 ## Accepted Criteria
 
 GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
+WHEN I view the source code is clean and understandable
+THEN I find semantic HTML elements in thier correct format
+WHEN I view the structure of the HTML elements it starts from header and end in footerd
 THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
+WHEN I view the image elements are in the place that they should 
+THEN I find accessible alt attributes to add comments to make the website accessible for everybody
+WHEN I view the heading attributes is the first thing that it goes after body
 THEN they fall in sequential order
-WHEN I view the title element
+WHEN I view the title element it says Horision
 THEN I find a concise, descriptive title
 
 ## Installation

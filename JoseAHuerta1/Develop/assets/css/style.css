@@ -59,17 +59,17 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* Propeties to make the picture go left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* Commands to make the pucture go right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* Main content */
 .content {
     width: 75%;
     display: inline-block;
