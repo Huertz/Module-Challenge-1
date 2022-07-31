@@ -75,7 +75,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-/* dE */
+/* Added main-content */
 .mian-content {
     margin-bottom: 20px;
     padding: 50px;
@@ -84,10 +84,11 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+/* Added main-content image */
 .mian-content img {
     max-height: 200px;
 }
-
+/* Added main-content h2 */
 .mian-content h2 {
     margin-bottom: 20px;
     font-size: 36px;
