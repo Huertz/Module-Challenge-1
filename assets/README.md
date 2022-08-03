@@ -7,13 +7,15 @@
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation?
-My motivation is to understand the concepts of HTML Elements. 
+My motivation is to understand the concepts of HTML Elements. Also to undertand the conection bewtween HTML and CSS. 
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
 Project was already build, the challenge of this project is a refactor. 
 - What problem does it solve?
-The project solves HTML semantic elements and to compile the CCS file so it's neat and understandable 
+The project solves HTML semantic elements and to compile the CCS file so it's neat and understandable. The CCS file had mutiple repited rules, the code solves that issue. It makes the code more 
+shorted. 
 - What did you learn?
-The understanding of the structional of how a HTML website should be build. 
+The understanding of the structional of how a HTML website should be build. Especially HTML semantics, a html file should have a structural way to write the code. 
+I also learned the connection that CSS has with HTML. In a website HTML is the strucuture and CSS is the styling of a website. 
 
 ## Accepted Criteria
 
