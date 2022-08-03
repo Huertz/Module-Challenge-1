@@ -7,7 +7,7 @@
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation?
-My motivation is to understand the concepts of HTML Elements 
+My motivation is to understand the concepts of HTML Elements. 
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
 Project was already build, the challenge of this project is a refactor. 
 - What problem does it solve?
@@ -20,7 +20,7 @@ The understanding of the structional of how a HTML website should be build.
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code is clean and understandable
 THEN I find semantic HTML elements in thier correct format
-WHEN I view the structure of the HTML elements it starts from header and end in footerd
+WHEN I view the structure of the HTML elements it starts from header and end in footer
 THEN I find that the elements follow a logical structure independent of styling and positioning
 WHEN I view the image elements are in the place that they should 
 THEN I find accessible alt attributes to add comments to make the website accessible for everybody
